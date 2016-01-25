@@ -3786,7 +3786,8 @@ header {
     background: transparent url(../img/me-logo.png) 0px 0px no-repeat; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
       header em.elegbede {
-        background: transparent url(../img/me-logo@2x.png) 0px 0px no-repeat; } }
+        background: transparent url(../img/me-logo@2x.png) 0px 0px no-repeat;
+        background-size: 120px 120px; } }
 
 footer {
   position: absolute;
